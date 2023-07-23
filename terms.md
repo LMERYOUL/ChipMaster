@@ -1,6 +1,6 @@
 # Terms of Service for Chip Master Temp Voice Bot
 
-Effective Date: 06/23/2023
+Effective Date: 07/22/2023
 
 # Please read these Terms of Service ("Terms") carefully before using Chip Master Temp Voice Bot ("the Bot"). By using the Bot, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Bot.
 
